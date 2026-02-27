@@ -1,1 +1,10 @@
-{"$schema":"https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.3/.Modules/settings.schema.json","type":"PTE","templateUrl":"https://github.com/microsoft/AL-Go-PTE@main","useProjectDependencies":true,"installApps":["https://github.com/microsoft/bcsamples-warehousehelper/releases/download/1.0.0/ALApp-main-Apps-1.0.11.0.zip"]}
+{
+  "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup/installApps_download/Actions/.Modules/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/aholstrup1/AL-Go@aholstrup/installApps_download",
+  "useProjectDependencies": true,
+  "installApps": [
+    "https://github.com/microsoft/bcsamples-warehousehelper/releases/download/1.0.0/ALApp-main-Apps-1.0.11.0.zip"
+  ],
+  "templateSha": "94a2292ba62833ee0c03e4f261e1ced12a9c6233"
+}

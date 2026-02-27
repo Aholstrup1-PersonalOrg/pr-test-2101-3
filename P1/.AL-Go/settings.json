@@ -1,1 +1,4 @@
-{"country":"us"}
+{
+  "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup/installApps_download/Actions/.Modules/settings.schema.json",
+  "country": "us"
+}
