@@ -1,0 +1,1 @@
+{"id":"c9a37817-8a6b-4c78-bf6a-18c8d5fd6bd6","name":"App1","version":"1.0.0.0","publisher":"TestPublisher","dependencies":[],"application":"22.0.0.0","runtime":"10.0","idRanges":[{"from":50001,"to":50010}],"resourceExposurePolicy":{"allowDebugging":true,"allowDownloadingSource":true,"includeSourceInSymbolFile":true}}
